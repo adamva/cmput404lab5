@@ -12,3 +12,4 @@ Based on requirements: https://uofa-cmput404.github.io/lab-5-pelican-basic-htmlc
 | pelican | 4.8.0 |
 | markdown | 3.4.1 |
 | make | 4.2.1 |
+| ghp-import | 2.1.0 |
