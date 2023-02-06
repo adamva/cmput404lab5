@@ -1,6 +1,6 @@
 AUTHOR = 'Adam Ahmed'
 SITENAME = 'Pelicans are Weird'
-SITEURL = ''
+SITEURL = 'https://adamva.github.io/cmput404lab5'
 
 PATH = 'content'
 
